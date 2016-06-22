@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom'
 
 var App = React.createClass({
 	render: function() {
-		return (<div>Text text text</div>);
+		return (<div>OLARRRR</div>);
 	}
 });
 
