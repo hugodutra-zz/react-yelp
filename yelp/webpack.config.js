@@ -13,8 +13,6 @@ const isDev    = NODE_ENV === 'development';
 
 const getConfig = require('hjs-webpack');
 
-// const postcss = require('postcss');
-
 var config = getConfig({
 	isDev: isDev,
 	in: join(src, 'app.js'),
